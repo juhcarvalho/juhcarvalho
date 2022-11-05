@@ -1,5 +1,7 @@
 ## Hello World! Eu sou Juliana Carvalho!
 
+### Tecnologias e Framewoks
+
 <div style="display: inline_block">
   <img align="center" alt="Azure" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/azure/azure-original-wordmark.svg" />
   <img align="center" alt="Git" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg" />
