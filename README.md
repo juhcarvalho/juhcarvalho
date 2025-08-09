@@ -2,7 +2,7 @@
 
 **`Developer Backend Java | Spring Boot | Angular | DevOps`**
 
-Me chamo Juliana, sou formada em Técnico em Informática pelo IFES e Tecnóloga em Banco de Dados pela Estácio de Sá.
+Olá, me chamo Juliana, sou formada em Técnico em Informática pelo IFES e Tecnóloga em Banco de Dados pela Estácio de Sá.
 Sou apaixonada por tecnologia e acredito que desenvolver sistemas é criar soluções reais para melhorar a vida de pessoas reais.
 
 🎯 Desenvolvedora com 10 anos de experiência em Java e desenvolvimento Web, atuei na sustentação e melhoria de sistemas web. Você pode conferir mais detalhes no meu [Linkedin](https://www.linkedin.com/in/juliana-de-carvalh0/)
