@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Juliana de Carvalho (TEA;TDAH)
+# 👩🏻‍💻 Juliana de Carvalho (TEA/TDAH)
 
 **`Developer Backend Java | Spring Boot | Angular | DevOps`**
 
